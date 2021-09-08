@@ -7,4 +7,4 @@ hiii
     1. book a flight ticket from kansas to california.
     2. thats it.
     
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cntraveler.com%2Fgallery%2Fthe-best-countries-for-adventure-travel&psig=AOvVaw1lbpxPT0wsQO2a5FX5l3p_&ust=1631151264633000&source=images&cd=vfe&ved=2ahUKEwjd4fKOnu7yAhXXa6wKHfnaAQYQr4kDegUIARDOAQ)
+![image](https://user-images.githubusercontent.com/89271212/132434535-dd8f88ea-fea4-4c8d-aa27-f98c0fd7d389.png)
